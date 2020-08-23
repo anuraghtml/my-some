@@ -1,0 +1,127 @@
+a{
+  color: #11999E
+}
+body{
+  margin: 0;
+  text-align: center;
+}
+.top-container{
+  background-color:#EAF6F6;
+  padding-top: 50px;
+}
+h3{
+  color: #11999E
+}
+h2{
+  font-family: 'Caveat', cursive;
+  font-size: 3.5rem;
+margin-top: 0px;
+  color: #66BFBF;
+}
+
+h1{
+   font-size:4rem;
+margin:100px auto 25px ;
+width: 50%;
+  font-family: 'Dancing Script', cursive;
+color: #66BFBF;
+line-height: 2;
+}
+
+.cloud-two{
+  position: absolute;
+  top: 400px;
+  left: 220px;
+}
+.cloud-one{
+  position: absolute;
+  top: 50px;
+right: 250px;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.lamb{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+.earth{
+  float: left;
+  margin-right: 30px;
+}
+.lolo{
+  width: 40%;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+.profile{
+  width: 30%;
+  margin: 0 auto 100px ;
+}
+.one{
+  margin-bottom: 30px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #40514E;
+}
+hr{
+  border-style: dotted;
+  width: 5%;
+  border-width: 8px 8px 0 8px;
+  border-color: #40514E;
+  margin-bottom: 100px;
+
+}
+.contact-me{
+  width: 35%;
+  margin: 0 auto;
+}
+.two{
+  line-height: 2;
+
+  margin-bottom: 30px;
+}
+.touch{
+  margin-bottom: 30px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0;
+}
+.three{
+color: #EAF6F6;
+margin-top: 30px;
+}
+.footer-link{
+text-decoration: none;
+  margin:0 20px;
+  font-size: 1.2rem;
+}
+.btn {
+  -webkit-border-radius: 29;
+  -moz-border-radius: 29;
+  border-radius: 29px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 26px;
+  background: #1594e8;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fcc63c;
+  text-decoration: none;
+}
+
+
+.middle-container{
+  margin-bottom: 50px;
+}
+ 
